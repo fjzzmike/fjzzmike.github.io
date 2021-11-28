@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://fjzzmike.github.io/sitemap.xml
